@@ -2,4 +2,6 @@
 
 echo "testing testing";
 
+echo "testing again";
+
 ?>
